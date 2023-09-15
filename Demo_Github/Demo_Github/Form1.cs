@@ -15,6 +15,11 @@ namespace Demo_Github
         public Form1()
         {
             InitializeComponent();
+            string a = "";
+            if (a == "")
+            {
+                a = "2";
+            }
         }
     }
 }
